@@ -1,3 +1,1 @@
-Developed a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture- based control systems.
-
-Dataset :- https://www.kaggle.com/gti-upm/leapgestrecog
+This repository contains a Convolutional Neural Network (CNN) model built using Keras to classify hand gestures. The model is designed to classify images into six categories: 'NONE', 'ONE', 'TWO', 'THREE', 'FOUR', 'FIVE'. The images are preprocessed using data augmentation techniques to improve the model's generalization capability.
